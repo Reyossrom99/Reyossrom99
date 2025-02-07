@@ -1,45 +1,20 @@
-<h2 align="left">Hi 👋! My name is Reyes and I'm a backend developer, from Spain</h2>
+## Hi there, I'm Reyes 👋
 
-###
+I'm a passionate software developer with a love for technology and innovation. I enjoy learning new tools and programming languages to solve problems creatively and efficiently.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reyossrom99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reyossrom99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Skills & Technologies
 
-###
+go,py,cpp,linux
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+## GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reyossrom99&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyossrom99&layout=compact&theme=radical)
 
-<div align="left">
-  <a href="reyesossorio@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/reyesossorio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Recent Activity
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Reyossrom99/Reyossrom99/output/snake.svg" alt="Snake animation" />
-
-###
+- **Updated README.md** in the [Reyossrom99 repository](https://github.com/Reyossrom99/Reyossrom99)  
+- **Created** multiple repositories including `goTrack` and `FutureVision`.  
+- **Pushed** changes to various projects, enhancing documentation and functionality.
 
   
