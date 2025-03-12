@@ -14,7 +14,5 @@ I'm a passionate software developer with a love for technology and innovation. I
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reyossrom99&theme=dark&hide_border=false)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
   
